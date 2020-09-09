@@ -1,13 +1,5 @@
 package fr.mds.javacourse.fizzbuzz;
 
-/*	
-	Si  le_nombre%10 == 9 alors « \r »
-	Sinon 3% le_nombre == 0 et 5%le_nombre ==0 alors fizzbuzz
-	Sinon si le je fais 3% le_nombre  == 0 alors fizz
-	Sinon si je fait 5% pénombre == 0 alors buzz
-	Sinon affiche le_nombre
-*/
-
 public class Launcher {
 
 	public static void main(String[] args) {
